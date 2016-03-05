@@ -1,0 +1,35 @@
+#EXTINF:-1,ALPHA
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:-1,STAR TV
+http://4.31.30.145:9080/
+#EXTINF:-1,ERT 3
+http://ert3-lh.akamaihd.net/i/live_1@329807/master.m3u8
+#EXTINF:-1,SKAI
+http://iphone.skai.gr.edgesuite.net/iphone_iphone.m3u8
+#EXTINF:-1,ERT 3
+http://ert3-lh.akamaihd.net/i/live_1@329807/index_800_av-p.m3u8?sd=10&rebase=on&hdntl=on
+#EXTINF:-1,ERT 3
+http://live2.ertopen.com/live2/e600/playlist.m3u8
+#EXTINF:-1,ALPHA
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8?b?b*t$
+#EXTINF:-1,ALPHA
+http://alfakanali-lh.akamaihd.net/i/live_1@90368/master.m3u8
+#EXTINF:-1,STAR hd
+http://starhdlive2-lh.akamaihd.net/i/live_1@181243/master.m3u8
+#EXTINF:-1,MEGA GR hd
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:-1,KONTRA
+rtmp://flashcloud.mediacdn.com:1935/live/kontratv
+#EXTINF:-1,KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1,MAD TV
+rtmp://144.76.2.213:1935/live/livestream
+#EXTINF:-1,ZOUGLA
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8
+#EXTINF:-1,KRHTH TV GR
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1,RYTHMOS FM WEB
+rtmp://213.16.167.54:1935/live/watchlive
+#EXTINF:-1,ANT1 GREECE HD
+http://wow.ant1.gr:1935/live/smil:mavani.smil/playlist.m3u8?b?b*t$
+
